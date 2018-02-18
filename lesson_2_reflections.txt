@@ -3,3 +3,6 @@ when we intrialize a repository then the .git file is created. We need to do it 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Satging area is the area between working directory and repository it helps us make better choices about our commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By using staging area we can either commit one file or more than one file at a time based on logic. 
