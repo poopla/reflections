@@ -5,4 +5,7 @@ How is the staging area different from the working directory and the repository?
 Satging area is the area between working directory and repository it helps us make better choices about our commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
-By using staging area we can either commit one file or more than one file at a time based on logic. 
+By using staging area we can either commit one file or more than one file at a time based on logic.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If i want to do some experiment or try to develop new version or change to new language. 
