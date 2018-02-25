@@ -9,3 +9,6 @@ By using staging area we can either commit one file or more than one file at a t
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If i want to do some experiment or try to develop new version or change to new language. 
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help in better understanding of branches.
