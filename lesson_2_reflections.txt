@@ -12,3 +12,6 @@ If i want to do some experiment or try to develop new version or change to new l
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help in better understanding of branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches together we can use changes made by more than one person in the main application. To understand concept easily.
